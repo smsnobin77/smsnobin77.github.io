@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **FilterRAG** has been **accepted** at **[T2FM Workshop, ICCV 2025](https://t2fm-ws.github.io/T2FM-ICCV25/)**! 🔍✨
+🎉 Our paper **<a href="https://arxiv.org/abs/2502.18536">FilterRAG</a>** has been **accepted** at **[T2FM Workshop, ICCV 2025](https://t2fm-ws.github.io/T2FM-ICCV25/)**! 🔍✨
