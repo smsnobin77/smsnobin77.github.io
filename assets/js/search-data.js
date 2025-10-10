@@ -398,13 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-selected-for-the-iccv-2025-broadening-participation-program-excited-to-engage-with-the-cv-community",
+          title: '🎉 Selected for the ICCV 2025 Broadening Participation program. Excited to engage with...',
           description: "",
           section: "News",},{id: "news-our-paper-fedmentor-is-accepted-for-presentation-at-the-genai4health-workshop-neurips-2025-the-second-workshop-on-genai-for-health-potential-trust-and-policy-compliance",
           title: '🎉 Our paper FedMentor is accepted for presentation at the GenAI4Health Workshop, NeurIPS...',
