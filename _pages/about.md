@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Graduate Research Assistant,  <a href='https://www.csee.umbc.edu/'>University of Maryland Baltimore County</a>.
 
