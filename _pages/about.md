@@ -15,11 +15,11 @@ profile:
     <p>Your City, State 12345</p>
     -->
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -34,3 +34,9 @@ I am a third-year Ph.D. student in the <a href='https://huggingface.co/umbc-nlp'
 My research lies in scientific reasoning and trustworthy machine learning. For scientific reasoning, I develop methods that evaluate scientific claims using large language models by coupling targeted retrieval with structured inference, ensuring that conclusions rest on explicit evidence. A second thrust of my work develops privacy-aware and robust learning for distributed settings, focusing on federated language models and differential privacy for sensitive data.
 
 Previously, I earned my MS in Computer Science from the <a href='https://www.utrgv.edu/cecs/departments/csci/'>University of Texas Rio Grande Valley</a>, where I worked on privacy-preserving federated learning for biometrics and differential privacy, contributing to projects that received NSF funding.
+
+## News
+{% include news.liquid %}
+
+## Selected Publications
+{% include selected_papers.liquid %}
