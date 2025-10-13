@@ -6,8 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Nobin
 middle_name:
 last_name: Sarwar
-contact_note: >
-  Please reach out by [email](mailto:smsarwar96@gmail.com) for further details about my research.
+# contact_note: >
+#   Please reach out by [email](mailto:smsarwar96@gmail.com) for further details about my research.
+contact_note: 'Please reach out by <a href="mailto:smsarwar96@gmail.com" target="_blank">email</a> for further details about my research.'
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic website of Nobin Sarwar
 # footer_text: >
