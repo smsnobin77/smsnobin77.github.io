@@ -35,12 +35,17 @@ My research lies in **scientific reasoning** and **trustworthy machine learning*
 
 Previously, I earned my MS in Computer Science from the <a href='https://www.utrgv.edu/cecs/departments/csci/'>University of Texas Rio Grande Valley</a>, where I worked on privacy-preserving federated learning for biometrics and differential privacy, contributing to projects that received NSF funding.
 
-<div class="alert alert-purple" role="alert" style="border-radius: 18px; padding: 14px 20px; font-size: 1rem;">
-  <i class="fa-solid fa-handshake"></i>
-  &nbsp; If you seek collaboration, please 
-  <a href="mailto:smsarwar96@gmail.com" style="color: var(--global-theme-color); font-weight: 500;">email</a>
-  a short summary of your topic and its alignment with my research.
+<div style="background-color: rgba(181, 9, 172, 0.16); border-radius: 40px; padding: 14px 22px; display: flex; align-items: center; justify-content: center; font-size: 1.05rem; line-height: 1.6; text-align: center; color: #000;">
+  <i class="fa-solid fa-handshake" style="margin-right: 10px; color: #000;"></i>
+  <span>
+    If you seek collaboration, please
+    <a href="mailto:smsarwar96@gmail.com" target="_blank" style="color: #b509ac; font-weight: 500; text-decoration: none;">
+      email
+    </a>
+    a short summary of your topic and its alignment with my research.
+  </span>
 </div>
+
 
 
 ## Research News
