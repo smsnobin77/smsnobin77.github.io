@@ -35,18 +35,14 @@ My research lies in **scientific reasoning** and **trustworthy machine learning*
 
 Previously, I earned my MS in Computer Science from the <a href='https://www.utrgv.edu/cecs/departments/csci/'>University of Texas Rio Grande Valley</a>, where I worked on privacy-preserving federated learning for biometrics and differential privacy, contributing to projects that received NSF funding.
 
-<div style="background-color: rgba(181, 9, 172, 0.16); border-radius: 40px; padding: 14px 22px; display: flex; align-items: center; justify-content: center; font-size: 1.05rem; line-height: 1.6; text-align: center; color: #000;">
-  <i class="fa-solid fa-handshake" style="margin-right: 10px; color: #000;"></i>
+<div style="background-color: rgba(181, 9, 172, 0.12); border-radius: 20px; padding: 6px 10px; display: flex; align-items: center; justify-content: center; line-height: 1.6; text-align: center; color: var(--global-text-color);">
+  <i class="fa-solid fa-handshake" aria-hidden="true" style="margin-right: 8px; color: #000;"></i>
   <span>
-    If you seek collaboration, please
-    <a href="mailto:smsarwar96@gmail.com" target="_blank" style="color: #b509ac; font-weight: 500; text-decoration: none;">
-      email
-    </a>
-    a short summary of your topic and its alignment with my research.
+    Actively exploring <b>Summer Internship</b> in NLP, CV and/or ML. Please <a href="mailto:smsarwar96@gmail.com" target="_blank" style="color: var(--global-theme-color); font-weight: 500; text-decoration: none;">contact me</a> if you have relevant opportunities.
   </span>
 </div>
 
-
+<div style="margin-top:5px;"></div>
 
 ## Research News
 
