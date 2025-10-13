@@ -35,10 +35,20 @@ My research lies in **scientific reasoning** and **trustworthy machine learning*
 
 Previously, I earned my MS in Computer Science from the <a href='https://www.utrgv.edu/cecs/departments/csci/'>University of Texas Rio Grande Valley</a>, where I worked on privacy-preserving federated learning for biometrics and differential privacy, contributing to projects that received NSF funding.
 
-## News
+<div class="alert alert-purple" role="alert" style="border-radius: 18px; padding: 14px 20px; font-size: 1rem;">
+  <i class="fa-solid fa-handshake"></i>
+  &nbsp; If you seek collaboration, please 
+  <a href="mailto:smsarwar96@gmail.com" style="color: var(--global-theme-color); font-weight: 500;">email</a>
+  a short summary of your topic and its alignment with my research.
+</div>
+
+
+## Research News
 
 {% include news.liquid %}
 
-## Selected Publications
+## Publications Spotlight
+
+Full publication list on [Google Scholar →](https://scholar.google.com/citations?user=7gRgh7QAAAAJ)
 
 {% include selected_papers.liquid %}
