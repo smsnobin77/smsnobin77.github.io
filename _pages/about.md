@@ -36,7 +36,9 @@ My research lies in **scientific reasoning** and **trustworthy machine learning*
 Previously, I earned my MS in Computer Science from the <a href='https://www.utrgv.edu/cecs/departments/csci/'>University of Texas Rio Grande Valley</a>, where I worked on privacy-preserving federated learning for biometrics and differential privacy, contributing to projects that received NSF funding.
 
 ## News
+
 {% include news.liquid %}
 
 ## Selected Publications
+
 {% include selected_papers.liquid %}

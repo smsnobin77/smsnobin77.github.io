@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **[FedMentor](https://arxiv.org/pdf/2509.14275)** is accepted for presentation at the **[GenAI4Health Workshop, NeurIPS 2025](https://genai4health.github.io/)** — *The Second Workshop on GenAI for Health: Potential, Trust, and Policy Compliance*! 🧠✨
+🎉 Our paper **[FedMentor](https://arxiv.org/pdf/2509.14275)** is accepted for presentation at the **[GenAI4Health Workshop, NeurIPS 2025](https://genai4health.github.io/)** — _The Second Workshop on GenAI for Health: Potential, Trust, and Policy Compliance_! 🧠✨
