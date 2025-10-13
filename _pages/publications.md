@@ -19,6 +19,6 @@ Full publication list on [Google Scholar →](https://scholar.google.com/citatio
 
 <div class="publications">
 
-{% bibliography --file papers %}
+{% bibliography --file papers --template bib %}
 
 </div>
