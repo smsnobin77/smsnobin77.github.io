@@ -11,7 +11,7 @@ Includes blog posts, projects, publications, and SCSS-based theming.
 - **GitHub Pages** for deployment  
 
 ## ⚙️ Local Development
-```
+```bash
 # install dependencies
 bundle install
 
@@ -68,4 +68,5 @@ Add content in `_posts/` or `_projects/`.
 
 **License:** MIT  
 **Build:** Jekyll + GitHub Pages
+
 
