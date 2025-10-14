@@ -11,18 +11,20 @@ Includes blog posts, projects, publications, and SCSS-based theming.
 - **GitHub Pages** for deployment  
 
 ## ⚙️ Local Development
-```bash
+```
 # install dependencies
 bundle install
 
 # run locally
 bundle exec jekyll serve
 # site will be available at http://localhost:4000
+```
 
 ## 🚀 Deployment
 Push to the `main` branch — GitHub Pages will automatically build and deploy the site.
 
 ## 📂 Project Structure
+```
 repo-root/
 ├── _config.yml
 ├── Gemfile / Gemfile.lock
@@ -54,6 +56,7 @@ repo-root/
 │   └── pdf/
 └── _bibliography/
     └── papers.bib
+```
 
 ## 🧩 Configuration
 
@@ -65,3 +68,4 @@ Add content in `_posts/` or `_projects/`.
 
 **License:** MIT  
 **Build:** Jekyll + GitHub Pages
+
