@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year Ph.D. student in the <a href='https://huggingface.co/umbc-nlp'>Language Understanding Lab</a> at the <a href='https://www.csee.umbc.edu/'>University of Maryland, Baltimore County</a>, advised by Prof. <a href='https://userpages.cs.umbc.edu/ferraro/'>Francis Ferraro</a>.
+I am a second-year Ph.D. student in the <a href='https://huggingface.co/umbc-nlp'>Language Understanding Lab</a> at the <a href='https://www.csee.umbc.edu/'>University of Maryland, Baltimore County</a>, advised by Prof. <a href='https://userpages.cs.umbc.edu/ferraro/'>Francis Ferraro</a>.
 
 My research lies in **scientific reasoning** and **trustworthy machine learning**. For scientific reasoning, I develop methods that evaluate scientific claims using large language models by coupling targeted retrieval with structured inference, ensuring that conclusions rest on explicit evidence. A second thrust of my work develops privacy-aware and robust learning for distributed settings, focusing on federated language models and differential privacy for sensitive data.
 
