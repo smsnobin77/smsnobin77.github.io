@@ -17,6 +17,8 @@ nav_order: 3
   {% endfor %}
 </div>
 
+
+<!--
 ---
 
 {% if site.repo_trophies.enabled %}
@@ -36,6 +38,8 @@ nav_order: 3
 {% endif %}
 
 {% if site.data.repositories.github_repos %}
+
+-->
 
 ## Featured Research Repositories
 
