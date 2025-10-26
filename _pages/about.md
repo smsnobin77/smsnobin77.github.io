@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Graduate Research Assistant,  <a href='https://www.csee.umbc.edu/'>University of Maryland Baltimore County</a>.
+subtitle: Graduate Research Assistant,  <a href="https://www.csee.umbc.edu/" target="_blank">University of Maryland Baltimore County</a>.
 
 profile:
   align: right
@@ -29,11 +29,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year Ph.D. student in the <a href='https://huggingface.co/umbc-nlp'>Language Understanding Lab</a> at the <a href='https://www.csee.umbc.edu/'>University of Maryland, Baltimore County</a>, advised by Prof. <a href='https://userpages.cs.umbc.edu/ferraro/'>Francis Ferraro</a>.
+I am a second-year Ph.D. student in the <a href="https://huggingface.co/umbc-nlp" target="_blank">Language Understanding Lab</a> at the <a href="https://www.csee.umbc.edu/" target="_blank">University of Maryland, Baltimore County</a>, advised by Prof. <a href="https://userpages.cs.umbc.edu/ferraro/" target="_blank">Francis Ferraro</a>.
 
-My research focuses on **Trustworthy Foundation Models**, including **reasoning**, **privacy-preserving LLMs**, **unlearning**, and **robustness**. My work appears at <a href='https://arxiv.org/abs/2509.14275'>**GenAI4Health@NeurIPS 2025**</a> and <a href='https://arxiv.org/abs/2502.18536'>**T2FMs@ICCV 2025**</a>. In reasoning, I develop methods that evaluate scientific claims with LLMs by coupling targeted retrieval with structured inference. This coupling makes the inference chain explicit and anchors conclusions in feasible evidence. A second thrust of my work develops privacy-aware and robust learning for distributed settings, focusing on federated language models and Differential Privacy for sensitive data.
+My research focuses on **Trustworthy Foundation Models**, including **reasoning**, **privacy-preserving LLMs**, **unlearning**, and **robustness**. My work appears at <a href="https://arxiv.org/abs/2509.14275" target="_blank">**GenAI4Health@NeurIPS 2025**</a> and <a href="https://arxiv.org/abs/2502.18536" target="_blank">**T2FMs@ICCV 2025**</a>. In reasoning, I develop methods that evaluate scientific claims with LLMs by coupling targeted retrieval with structured inference. This coupling makes the inference chain explicit and anchors conclusions in feasible evidence. A second thrust of my work develops privacy-aware and robust learning for distributed settings, focusing on federated language models and Differential Privacy for sensitive data.
 
-Previously, I earned my MS in Computer Science from the <a href='https://www.utrgv.edu/cecs/departments/csci/'>University of Texas Rio Grande Valley</a>, where I worked on privacy-preserving federated learning for biometrics and differential privacy, contributing to projects that received NSF funding.
+Previously, I earned my MS in Computer Science from the <a href="https://www.utrgv.edu/cecs/departments/csci/" target="_blank">University of Texas Rio Grande Valley</a>, where I worked on privacy-preserving federated learning for biometrics and differential privacy, contributing to projects that received NSF funding.
 
 <div style="background-color: rgba(181, 9, 172, 0.12); border-radius: 20px; padding: 6px 10px; display: flex; align-items: center; justify-content: center; line-height: 1.6; text-align: center; color: var(--global-text-color);">
   <i class="fa-solid fa-handshake" aria-hidden="true" style="margin-right: 8px; color: #000;"></i>
