@@ -42,7 +42,7 @@ Previously, I earned my MS in Computer Science from the <a href="https://www.utr
   </span>
 </div>
 
-<div style="margin-top:5px;"></div>
+<div style="margin-top:10px;"></div>
 
 ## Research News
 
