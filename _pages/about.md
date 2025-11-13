@@ -35,7 +35,7 @@ My research focuses on **Trustworthy Foundation Models**, including self-improvi
 
 Previously, I earned my MS in Computer Science from the <a href="https://www.utrgv.edu/cecs/departments/csci/" target="_blank">University of Texas Rio Grande Valley</a>, where I worked on privacy-preserving federated learning for biometrics and differential privacy, contributing to projects that received NSF funding.
 
-<div style="background-color: #0076df; border-radius: 20px; padding: 6px 10px; display: flex; align-items: center; justify-content: center; line-height: 1.6; text-align: center; color: var(--global-text-color);">
+<div style="background-color: rgba(181, 9, 172, 0.12); border-radius: 20px; padding: 6px 10px; display: flex; align-items: center; justify-content: center; line-height: 1.6; text-align: center; color: var(--global-text-color);">
   <i class="fa-solid fa-handshake" aria-hidden="true" style="margin-right: 8px; color: #000;"></i>
   <span>
     Actively exploring <b>Summer Internship</b> in NLP, CV and/or ML. Please <a href="mailto:smsarwar96@gmail.com" target="_blank" style="color: var(--global-theme-color); font-weight: 500; text-decoration: none;">contact me</a> if you have relevant opportunities.
